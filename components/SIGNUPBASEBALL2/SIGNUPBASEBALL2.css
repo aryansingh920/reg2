@@ -1,0 +1,341 @@
+.sign-up-baseball {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.overlap-group4 {
+  height: 1104px;
+  margin-left: -16px;
+  position: relative;
+  width: 1783px;
+}
+
+.overlap-group2 {
+  height: 1104px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1783px;
+}
+
+.rectangle-42 {
+  background-color: var(--woodsmoke);
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 974px;
+  width: 1783px;
+}
+
+.registration {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 985px;
+  width: 487px;
+}
+
+.rectangle-43 {
+  background-color: var(--inchworm);
+  height: 12px;
+  left: 1058px;
+  position: absolute;
+  top: 1002px;
+  width: 686px;
+}
+
+.rectangle-44 {
+  background-color: var(--inchworm);
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 1001px;
+  width: 686px;
+}
+
+.rectangle-23 {
+  background-color: var(--woodsmoke);
+  height: 64px;
+  left: 16px;
+  position: absolute;
+  top: 1040px;
+  width: 1728px;
+}
+
+.x2023-olympic-indoo {
+  left: 643px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1043px;
+}
+
+.rectangle-33 {
+  background-color: var(--woodsmoke);
+  height: 78px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1729px;
+}
+
+.rectangle-5 {
+  background-color: var(--inchworm-2);
+  height: 52px;
+  left: 16px;
+  position: absolute;
+  top: 72px;
+  width: 1728px;
+}
+
+.screenshot-2023-01-23-at-832-1 {
+  height: 69px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.place {
+  left: 355px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.the-facility {
+  left: 503px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.memberships {
+  left: 693px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.batting-cages {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.programs-events {
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.contact-us {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.rectangle-6 {
+  background-color: var(--black);
+  height: 4px;
+  left: 679px;
+  position: absolute;
+  top: 120px;
+  width: 116px;
+}
+
+.ois {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.iconsax-linearusersquare {
+  height: 30px;
+  left: 1608px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.eazy {
+  left: 1650px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}
+
+.base-1 {
+  height: 1035px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 697px;
+}
+
+.title {
+  left: 840px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+}
+
+.overlap-group {
+  height: 386px;
+  left: 839px;
+  position: absolute;
+  top: 390px;
+  width: 811px;
+}
+
+.rectangle-61 {
+  background-color: var(--chicago);
+  height: 361px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 810px;
+}
+
+.iconsax-linearcamera {
+  height: 187px;
+  left: 308px;
+  position: absolute;
+  top: 67px;
+  width: 187px;
+}
+
+.rectangle-63 {
+  background-color: #8e8e8e;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 321px;
+  width: 811px;
+}
+
+.browse {
+  color: var(--mercury);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 319px;
+  width: 811px;
+  height: 68px;
+}
+
+input[type="file"] {
+  height: 100%;
+  width: 100%;
+  top: 321px;
+}
+
+/* .custom-upload {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+} */
+
+::-webkit-file-upload-button {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+}
+
+.lets-create-your-custom-players-card {
+  left: 840px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 253px;
+}
+
+.first-upload-your-photo {
+  left: 893px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 327px;
+}
+
+.overlap-group1 {
+  height: 44px;
+  left: 839px;
+  position: absolute;
+  top: 321px;
+  width: 40px;
+}
+
+.ellipse-1 {
+  background-color: var(--inchworm);
+  border-radius: 20px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 40px;
+}
+
+.number {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group3 {
+  height: 65px;
+  left: 1396px;
+  position: absolute;
+  top: 829px;
+  width: 254px;
+}
+
+.rectangle-62 {
+  background-color: var(--inchworm);
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.upload {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 254px;
+}

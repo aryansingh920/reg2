@@ -1,0 +1,103 @@
+:root { 
+  --black: #000000;
+  --chicago: #585858;
+  --inchworm: #b8ff5d;
+  --inchworm-2: #b7ff5d;
+  --mercury: #e6e6e6;
+  --thunder: #2e2e2e;
+  --white: #ffffff;
+  --woodsmoke: #0f0f0f;
+ 
+  --font-size-l: 21px;
+  --font-size-s2: 15px;
+  --font-size-xl2: 19px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 37px;
+  --font-size-xxxxl: 46px;
+  --font-size-xxxxl2: 26px;
+ 
+  --font-family-akshar: "Akshar", Helvetica;
+  --font-family-chakra_petch: "Chakra Petch", Helvetica;
+  --font-family-coda: "Coda", Helvetica;
+  --font-family-do_hyeon: "Do Hyeon", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.akshar-normal-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-akshar);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dohyeon-normal-white-37px {
+  color: var(--white);
+  font-family: var(--font-family-do_hyeon);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.chakrapetch-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-chakra_petch);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.coda-extra-bold-inchworm-46px {
+  color: var(--inchworm);
+  font-family: var(--font-family-coda);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-46px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-light-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.akshar-light-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-akshar);
+  font-size: var(--font-size-xxxxl2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
